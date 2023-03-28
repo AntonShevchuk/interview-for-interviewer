@@ -1,0 +1,7 @@
+{
+ "name": "Interview for interviewer :: Anton Shevchuk",
+ "icons": [
+  { "src": "/pictures/icon-192x192.png", "type": "image/png", "sizes": "192x192" },
+  { "src": "/pictures/icon-512x512.png", "type": "image/png", "sizes": "512x512" }
+ ]
+}
