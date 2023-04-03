@@ -14,7 +14,7 @@
 
 ## Презентація
 
-https://antonshevchuk.github.io/interview/
+https://antonshevchuk.github.io/interview-for-interviewer/
 
 ## Локальна презентація
 
